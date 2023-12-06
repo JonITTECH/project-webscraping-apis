@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+## Books for Buddies
+*[Pablo Corral, Juliette Goardon, Jonatan Aguilera]*
 
-*[Your Cohort, Campus & Date]*
+*[AMAZON group - Project: Web Scraping/APIs - Data Analytics Campus]*
 
 ## Content
 - [Project Description](#project-description)
