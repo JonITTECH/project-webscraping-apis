@@ -69,6 +69,6 @@ To organize ourselves and keep track of tasks, we have used Trello for assistanc
 ## Links
 
 [Repository](https://github.com/JonITTECH/project-webscraping-apis.git)  
-[Slides](https://slides.com/)  
+[Slides](https://www.canva.com/design/DAF12OikcC8/5lJWkfPoOZOM_zF40gC62Q/edit)  
 [Trello](https://trello.com/invite/b/wl30qVK4/ATTI33e5d31b0b501eda306316cffea99f8c5E45446E/books-for-buddies)
 
